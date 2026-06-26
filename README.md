@@ -1,7 +1,7 @@
 # Nassau Candy Factory Reallocation & Shipping Optimization
 
 Streamlit decision intelligence project for simulating factory-product reassignment scenarios and ranking shipping optimization recommendations.
-
+Project Link :- https://fbuzuk94khm2zxemxwwirg.streamlit.app
 ## Features
 
 - Predictive lead-time modeling with Linear Regression, Random Forest, and Gradient Boosting.
